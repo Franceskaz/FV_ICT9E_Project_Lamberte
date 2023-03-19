@@ -1,0 +1,51 @@
+.title
+{
+	font-size: 100px;
+	line-height: 30px;
+	font-family: 'Bebas Neue', cursive;
+	color: white;
+	margin-top: 20px;
+	margin-bottom: 100px;
+	margin-left: 10px; 
+	margin-right: 10px;
+	}
+
+.title2
+{
+	font-size: 20px;
+	line-height: 30px;
+	font-family: 'Quicksand', sans-serif;
+	color: black;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	margin-left: 10px; 
+	margin-right: 10px;
+	}
+.title3
+{
+	font-size: 20px;
+	line-height: 30px;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	}
+.title4
+{
+	font-size: 20px;
+	line-height: 30px;
+	font-family: 'Quicksand', sans-serif;
+	color: black;
+	margin-top: 20px;
+	}
+.title5
+{
+	font-size: 17px;
+	line-height: 30px;
+	font-family: 'Quicksand', sans-serif;
+	color: black;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	margin-left: 10px; 
+	margin-right: 10px;
+	}
